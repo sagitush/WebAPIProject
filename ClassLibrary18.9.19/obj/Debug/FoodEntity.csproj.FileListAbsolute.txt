@@ -1,0 +1,12 @@
+C:\Users\sagit\Source\Repos\WebApplication2\ClassLibrary18.9.19\bin\Debug\ClassLibrary18.9.19.dll.config
+C:\Users\sagit\Source\Repos\WebApplication2\ClassLibrary18.9.19\bin\Debug\ClassLibrary18.9.19.dll
+C:\Users\sagit\Source\Repos\WebApplication2\ClassLibrary18.9.19\bin\Debug\ClassLibrary18.9.19.pdb
+C:\Users\sagit\Source\Repos\WebApplication2\ClassLibrary18.9.19\bin\Debug\EntityFramework.dll
+C:\Users\sagit\Source\Repos\WebApplication2\ClassLibrary18.9.19\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sagit\Source\Repos\WebApplication2\ClassLibrary18.9.19\bin\Debug\EntityFramework.xml
+C:\Users\sagit\Source\Repos\WebApplication2\ClassLibrary18.9.19\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sagit\Source\Repos\WebApplication2\ClassLibrary18.9.19\obj\Debug\FoodEntity.csproj.CoreCompileInputs.cache
+C:\Users\sagit\Source\Repos\WebApplication2\ClassLibrary18.9.19\obj\Debug\FoodEntity.csproj.CopyComplete
+C:\Users\sagit\Source\Repos\WebApplication2\ClassLibrary18.9.19\obj\Debug\ClassLibrary18.9.19.dll
+C:\Users\sagit\Source\Repos\WebApplication2\ClassLibrary18.9.19\obj\Debug\ClassLibrary18.9.19.pdb
+C:\Users\sagit\Source\Repos\WebApplication2\ClassLibrary18.9.19\obj\Debug\FoodEntity.csprojAssemblyReference.cache

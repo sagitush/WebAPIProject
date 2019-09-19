@@ -1,0 +1,12 @@
+C:\Users\sagit\Source\Repos\WebApplication2\ConsoleToConnectApi\bin\Debug\ConsoleToConnectApi.exe.config
+C:\Users\sagit\Source\Repos\WebApplication2\ConsoleToConnectApi\bin\Debug\ConsoleToConnectApi.exe
+C:\Users\sagit\Source\Repos\WebApplication2\ConsoleToConnectApi\bin\Debug\ConsoleToConnectApi.pdb
+C:\Users\sagit\Source\Repos\WebApplication2\ConsoleToConnectApi\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sagit\Source\Repos\WebApplication2\ConsoleToConnectApi\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\sagit\Source\Repos\WebApplication2\ConsoleToConnectApi\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sagit\Source\Repos\WebApplication2\ConsoleToConnectApi\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\sagit\Source\Repos\WebApplication2\ConsoleToConnectApi\obj\Debug\ConsoleToConnectApi.csprojAssemblyReference.cache
+C:\Users\sagit\Source\Repos\WebApplication2\ConsoleToConnectApi\obj\Debug\ConsoleToConnectApi.csproj.CoreCompileInputs.cache
+C:\Users\sagit\Source\Repos\WebApplication2\ConsoleToConnectApi\obj\Debug\ConsoleToConnectApi.csproj.CopyComplete
+C:\Users\sagit\Source\Repos\WebApplication2\ConsoleToConnectApi\obj\Debug\ConsoleToConnectApi.exe
+C:\Users\sagit\Source\Repos\WebApplication2\ConsoleToConnectApi\obj\Debug\ConsoleToConnectApi.pdb
